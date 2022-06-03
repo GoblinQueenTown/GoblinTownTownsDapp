@@ -607,6 +607,19 @@
 		"type": "function"
 	},
 	{
+		"inputs": [
+			{
+				"internalType": "uint256",
+				"name": "_changes",
+				"type": "uint256"
+			}
+		],
+		"name": "townChanges",
+		"outputs": [],
+		"stateMutability": "nonpayable",
+		"type": "function"
+	},
+	{
 		"inputs": [],
 		"name": "townsClaimed",
 		"outputs": [
