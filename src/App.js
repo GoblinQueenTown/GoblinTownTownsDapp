@@ -12,15 +12,15 @@ const truncate = (input, len) =>
   input.length > len ? `${input.substring(0, len)}...` : input;
 
 export const StyledButton = styled.button`
-  padding: 10px;
-  border-radius: 10px;
+ padding: 10px;
+  border-radius: 120px;
   border: none;
   background-color: var(--secondary);
-  padding: 20px;
-  font-weight: Bold;
+  padding: 12px;
+  font-weight: normal;
   font-size: 30px;
   color: var(--secondary-text);
-  width: 280px;                                                       
+  width: 270px;                                                       
   cursor: pointer;
   box-shadow: 2px 2px 2px 1px rgba(0, 0, 255, 0.2);
   -webkit-box-shadow: 0px 6px 0px -2px rgba(250, 250, 250, 0.3);
