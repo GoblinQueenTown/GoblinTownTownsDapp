@@ -12,7 +12,7 @@
     "WEI_COST": 0,
     "DISPLAY_COST": 0.00,
     "GAS_LIMIT": 140000,
-    "MARKETPLACE": "OpeanSea",
+    "MARKETPLACE": "OpenSea",
     "MARKETPLACE_LINK": "https://opensea.io/collection/goblin-town-towns",
     "SHOW_BACKGROUND": true
   }
