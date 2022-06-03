@@ -1,10 +1,10 @@
   {
-    "CONTRACT_ADDRESS": "0x6861B5aB91aDA8D0d2AA457529AD83B4820B2f5f",
-    "SCAN_LINK": "https://etherscan.io/address/0x6861B5aB91aDA8D0d2AA457529AD83B4820B2f5f",
+    "CONTRACT_ADDRESS": "0xd7662A0F3a79f298ecC15BFEAC8AfBA76C505e1b",
+    "SCAN_LINK": "https://etherscan.io/address/0xd7662A0F3a79f298ecC15BFEAC8AfBA76C505e1b",
     "NETWORK": {
       "NAME": "Ethereum",
       "SYMBOL": "ETH",
-      "ID": 4
+      "ID": 1
     },
     "NFT_NAME": "Goblin Town Towns",
     "SYMBOL": "GBLNTWN",
