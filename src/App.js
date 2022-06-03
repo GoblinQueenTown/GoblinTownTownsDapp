@@ -241,7 +241,7 @@ function playPause(){
         flex={1}
         ai={"center"}      //change placement of the logo (right = top left of page)    //playbutton code:   <button id="playPauseBTN"   onClick={(e) => {    e.preventDefault();playPause();}}>Play &#9658; </button>
         style={{ padding: 10, backgroundColor: "var(--primary)" }}
-        image={CONFIG.SHOW_BACKGROUND ? "/config/images/bgfinal.png" : null}
+        image={CONFIG.SHOW_BACKGROUND ? "/config/images/testchange.png" : null}
       >
         <s.SpacerLarge />    
         <s.SpacerSmall />
