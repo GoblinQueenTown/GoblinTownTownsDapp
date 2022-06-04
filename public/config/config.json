@@ -8,7 +8,7 @@
     },
     "NFT_NAME": "Goblin Town Towns",
     "SYMBOL": "GBLNTWN",
-    "MAX_SUPPLY": 9999,
+    "MAX_SUPPLY": 1500,
     "WEI_COST": 0,
     "DISPLAY_COST": 0.00,
     "GAS_LIMIT": 140000,
